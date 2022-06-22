@@ -1,4 +1,4 @@
-<h1 align="center">Salut 👋, je suis Tanguy BRON</h1>
+<h1 align="center">Salut 👋, c'est Tanguy BRON</h1>
 <h3 align="center">Étudiant en école d'ingénieur à l'ESIEE Paris en spécialité cybersécurité</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanguybron&label=Profile%20views&color=0e75b6&style=flat" alt="tanguybron" /> </p>
