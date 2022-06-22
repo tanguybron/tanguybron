@@ -4,10 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanguybron&label=Profile%20views&color=0e75b6&style=flat" alt="tanguybron" /> </p>
 
 
-- 🔭 Projet actuel [Plateforme de sensibilisation Cyber](https://tanguybron.github.io/cours-cybersec/)
+<!-- - 🔭 Projet actuel [Plateforme de sensibilisation Cyber](https://tanguybron.github.io/cours-cybersec/) -->
 
-<p align="right">
-    <img align="center" src="static/github-tanguybron.gif">
+<p align="left">
+    - 🔭 Projet actuel [Plateforme de sensibilisation Cyber](https://tanguybron.github.io/cours-cybersec/)
+    <img align="right" src="static/github-tanguybron.gif">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
