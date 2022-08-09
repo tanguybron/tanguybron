@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanguybron&label=Profile%20views&color=0e75b6&style=flat" alt="tanguybron" /> </p>
 
 
-- 🔭 Projet actuel [Plateforme de sensibilisation Cyber](https://tanguybron.github.io/cours-cybersec/)
+- 🔭 Projet actuel [Cybersec du Dimanche](https://tanguybron.github.io/cybersec-du-dimanche/html/index.html)
 
 <p align="center">
     <img align="center" src="static/github-tanguybron.gif">
