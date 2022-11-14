@@ -7,7 +7,7 @@
 - 🔭 Projet actuel [Cybersec du Dimanche](https://tanguybron.github.io/cybersec-du-dimanche/html/index.html)
 
 <p align="center">
-    <img align="center" src="static/github-tanguybron.gif">
+    <img align="center" src="static/tanguybron1.gif">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
