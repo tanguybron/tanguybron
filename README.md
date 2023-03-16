@@ -1,3 +1,4 @@
+<img src="/static/banniere.png">
 <h1 align="center">Salut 👋, c'est Tanguy Bron</h1>
 <h3 align="center">Passionné de cybersécurité. Actuellement étudiant en école d'ingénieur</h3>
 
