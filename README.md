@@ -27,7 +27,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanguybron&show_icons=true&locale=en" alt="tanguybron" /></p>
 
 
-<p align="center">
-    <img align="center" src="static/tanguybron1.gif">
-</p>
 
