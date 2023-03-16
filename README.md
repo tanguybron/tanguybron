@@ -17,8 +17,6 @@
 
 - 📄 Pour en savoir plus sur mes expériences : [LinkedIn](https://www.linkedin.com/in/tanguy-bron-5396b91b9/)
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/gicola.png" alt="TryHackme">
-
 <img src="./static/root-me.png" alt="Root-Me"> 
 
 <h3 align="left">Connect with me:</h3>
