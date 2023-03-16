@@ -4,7 +4,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanguybron&label=Profile%20views&color=0e75b6&style=flat" alt="tanguybron" /> </p>
 
+
+<details align="center">
+  <summary>Trophées GitHub 🏆</summary>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanguybron" alt="tanguybron" /></a> </p>
+</details>
+
 
 - 🔭 Je travaille actuellement sur [Cybersec du Dimanche](https://tanguybron.github.io/cybersec-du-dimanche/html/index.html)
 
