@@ -10,10 +10,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanguybron" alt="tanguybron" /></a> </p>
 </details>
 
+- 📑 Propose des rapports et mémos sur certains CTF : [rapport CTF](https://tanguybron.gitlab.io/rapport-cyb/) et [notes / mémos CTF](https://tanguybron.gitlab.io/pentesting-notes/)
 
-- 🔭 Je travaille actuellement sur [Cybersec du Dimanche](https://tanguybron.github.io/cybersec-du-dimanche/html/index.html)
+- 🔭 J'ai travaillé sur [Cybersec du Dimanche](https://tanguybron.github.io/cybersec-du-dimanche/html/index.html)
 
-- 🔐 En train de développer un gestionnaire de mot de passe sur Réseau Local : [SecUrKey](https://github.com/tanguybron/SecUrKey)
+- 🔐 Projet d'un gestionnaire de mot de passe sur réseau local : [SecUrKey](https://github.com/tanguybron/SecUrKey)
 
 - 📄 Pour en savoir plus sur mes expériences : [LinkedIn](https://www.linkedin.com/in/tanguy-bron-5396b91b9/)
 
