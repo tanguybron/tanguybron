@@ -1,8 +1,6 @@
 <img src="/static/banniere_slim.png">
 <h1 align="center">Salut 👋, c'est Tanguy Bron</h1>
 <h3 align="center">Passionné de cybersécurité. Actuellement étudiant en école d'ingénieur</h3>
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="tanguy-bron" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://fr.linkedin.com/in/tanguy-bron?trk=profile-badge">Tanguy Bron</a></div>
               
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanguybron&label=Profile%20views&color=0e75b6&style=flat" alt="tanguybron" /> </p>
 
