@@ -31,7 +31,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanguybron&show_icons=true&locale=en" alt="tanguybron" /></p>
 </br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=holi&show_icons=true)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=holi&show_icons=true" alt="tanguybron" /></p>
 
 
 
