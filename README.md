@@ -10,7 +10,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanguybron" alt="tanguybron" /></a> </p>
 </details>
 
-- 📑 Propose des rapports et mémos sur certains CTF : [rapport CTF](https://tanguybron.gitlab.io/rapport-cyb/) et [notes / mémos CTF](https://tanguybron.gitlab.io/pentesting-notes/)
+- 📑 Propose des rapports et mémos sur certains CTF : [rapport CTF](https://tanguybron.gitlab.io/rapport-cyb/) et [notes / mémos CTF](https://tanguybron.gitlab.io/pentesting-notes/) : le site n'est pas disponible pour le moment car le 404CTF est en cours
 
 - 🔭 J'ai travaillé sur [Cybersec du Dimanche](https://tanguybron.github.io/cybersec-du-dimanche/html/index.html)
 
