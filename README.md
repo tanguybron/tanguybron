@@ -1,6 +1,6 @@
 <img src="/static/ROOT_banniere.png">
 <h1 align="center">Salut 👋, c'est Tanguy Bron</h1>
-<h3 align="center">Passionné de cybersécurité. Actuellement étudiant en école d'ingénieur</h3>
+# <h3 align="center">Passionné de cybersécurité. Actuellement étudiant en école d'ingénieur</h3>
               
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanguybron&label=Profile%20views&color=0e75b6&style=flat" alt="tanguybron" /> </p>
 
